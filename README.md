@@ -21,3 +21,4 @@ A high-quality, real-time video calling web application built using **Next.js**,
 | TypeScript    | Type safety                  |
 | PeerJS        | WebRTC abstraction for P2P   |
 | Vercel (opt)  | Deployment                   |
+![QuickMeet Landing Screenshot](./k3.png)
